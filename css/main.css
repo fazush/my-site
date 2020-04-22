@@ -1,0 +1,37 @@
+.sahifa1{
+    background-color: gold;
+    position: fixed;
+    width:100%;
+}
+.sahifa1 li{
+    display: inline-block;
+    padding:8px 80px;
+ 
+}
+.sahifa1 li a{
+    color:  #b31847;
+    text-decoration: none;
+    text-align: center;
+}
+.sahifa1 li a:hover{
+    color: #6e073b;
+    background-color: rgba( 245,245,245,0.3);
+}
+.header {
+	color:#85093f;
+	text-shadow: 2px 2px #da80cb;
+ 	text-align:center;
+	padding-top: 40px;
+}
+.colL{
+	width: 1100px;
+	height: 500px;
+	margin-left: 150px;
+
+}
+.carousel-inner img {
+      width: 1100px;
+      height: 500px;
+      float: center;
+}
+
